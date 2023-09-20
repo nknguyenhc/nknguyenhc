@@ -2,11 +2,11 @@ Hi, I’m @nknguyenhc
 
 I am currently pursuing Computer Science in NUS.
 
-I won gold medals in Mathematics and Physics Olympiad in high school. I aspire to apply my Mathematics skills in real-world problems, through Computer Science. 
+I previously interned at Decision Science Agency, and engineered Singlife's websites e-service forms.
 
-In NUS Game Development Group, I have picked up game development skills and published a game within the first semester. I am in the executive committee of NUS Game Development Group. The co-curricular activity empowers students with tools and knowledge to develop games.
+I am working on MatchMiner, a platform for interest-sharing. The platform is set to be released within a few months.
 
-I aspire to become pursue software development and artificial intelligence.
+Inspired by how technology can transform websites and enhance quality of life, I aspire to further pursue software development and artificial intelligence.
 
 <!---
 nknguyenhc/nknguyenhc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
