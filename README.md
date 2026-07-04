@@ -1,10 +1,8 @@
 Hi, I’m @nknguyenhc
 
-I am currently pursuing Computer Science in NUS.
+I am currently working in Sea Group (Alpha team), exploring possibilities with AI.
 
-I previously interned at Temus as AI Engineer Intern, working on cool AI projects spanning across a multitude of sectors.
-
-I aspire to further pursue software development and artificial intelligence.
+I graduated from NUS Computer Science.
 
 <!---
 nknguyenhc/nknguyenhc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
